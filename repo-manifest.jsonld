@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/canonical/haproxy-operator/commit/df7db2c37c931f7afaccb579e150053bc449e4b0",
       "git:hexsha": "df7db2c37c931f7afaccb579e150053bc449e4b0",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "publish-42431667441"
     },
     {
