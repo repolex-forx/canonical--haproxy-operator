@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/canonical/haproxy-operator/commit/df7db2c37c931f7afaccb579e150053bc449e4b0",
       "git:hexsha": "df7db2c37c931f7afaccb579e150053bc449e4b0",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "publish-42431667441"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "publish-42431667441",
+      "repolex:parsedAt": "2026-11-08T04:52:05.528941+00:00"
     },
     {
       "@id": "https://repolex.ai/r/canonical/haproxy-operator/commit/8391fdd6f055fb1252e07b03491f3f4adbb6871d",
