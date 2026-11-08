@@ -1,0 +1,11 @@
+{
+  "org": "canonical",
+  "repo": "haproxy-operator",
+  "versions": [
+    {
+      "commit": "df7db2c37c931f7afaccb579e150053bc449e4b0",
+      "tag": "haproxy-ddos-protection-configurator-rev278",
+      "parsed_at": "2026-11-08T04:52:05.530739+00:00"
+    }
+  ]
+}
